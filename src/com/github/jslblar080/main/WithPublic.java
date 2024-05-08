@@ -10,6 +10,9 @@ public class WithPublic { // main 클래스에서 public 접근 제어자가 필
         FeedBack1.response1(1);
         FeedBack2.response2(2);
         FeedBack3.response3(3);
+//        new BackFeed1(1);
+//        new BackFeed2(2);
+//        new BackFeed3(3);
     }
 }
 
@@ -26,5 +29,21 @@ main 패키지의 main() 메서드입니다.
 2: cycle 패키지의 response3() 메서드입니다.
 main 패키지의 main() 메서드입니다.
 3: cycle 패키지의 response3() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+*/
+
+/*
+main 패키지의 main() 메서드입니다.
+1: cycle 패키지의 BackFeed1() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+1: cycle 패키지의 BackFeed2() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+2: cycle 패키지의 BackFeed2() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+1: cycle 패키지의 BackFeed3() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+2: cycle 패키지의 BackFeed3() 메서드입니다.
+main 패키지의 main() 메서드입니다.
+3: cycle 패키지의 BackFeed3() 메서드입니다.
 main 패키지의 main() 메서드입니다.
 */
