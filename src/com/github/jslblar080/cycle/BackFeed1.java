@@ -7,6 +7,7 @@ import com.github.jslblar080.main.WithPublic;
 // cannot be accessed from outside package
 
 public class BackFeed1 {
+
     public static int counter = 0;
 
     public BackFeed1(int total) {

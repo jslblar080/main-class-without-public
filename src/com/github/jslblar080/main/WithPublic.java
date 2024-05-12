@@ -3,6 +3,7 @@ package com.github.jslblar080.main;
 import com.github.jslblar080.cycle.*;
 
 public class WithPublic { // main 클래스에서 public 접근 제어자가 필요한 경우
+
     public static String[] strArgs;
 
     public static void main(String[] args) {
