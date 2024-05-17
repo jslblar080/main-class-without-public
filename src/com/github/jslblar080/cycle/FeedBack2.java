@@ -4,7 +4,7 @@ import com.github.jslblar080.main.WithPublic;
 
 public class FeedBack2 {
 
-    public static int counter = 0;
+    private static int counter = 0;
 
     public static void response2(int total) {
         if (counter < total) {
