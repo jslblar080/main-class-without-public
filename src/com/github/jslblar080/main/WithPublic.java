@@ -7,6 +7,7 @@ public class WithPublic { // main 클래스에서 public 접근 제어자가 필
     public static String[] strArgs;
 
     public static void main(String[] args) {
+
         System.out.println("main 패키지의 main() 메서드입니다.");
         FeedBack1.response1(1);
         FeedBack2.response2(2);
